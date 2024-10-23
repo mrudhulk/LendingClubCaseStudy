@@ -35,4 +35,3 @@ Following files has been inlcluded as a part of solutions:
     READ.me file for Problem discriptions.
     Lending_Case_Study_Neeraj_Mrudhul_3.ipynb ipython file for performing EDA.
     Lending_Case_Study_Neeraj_Mrudhul_Final_23102024.pdf about the Analysis and Conclusions of EDA performed.
-    Loan.csv file.
